@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "googleapis": "^137.1.0",
+    "moment": "^2.30.1",
+    "node-html-parser": "^6.1.13",
+    "puppeteer": "^22.9.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "slugify": "^1.6.6",
+    "superagent": "^9.0.2"
+  }
+}
