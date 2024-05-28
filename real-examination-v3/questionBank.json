@@ -1,0 +1,1132 @@
+[
+  {
+    "question": "Nhiệm kỳ 2018 - 2023, có bao nhiêu sinh viên đạt danh hiệu “Sinh viên 5 tốt” cấp Trung ương?",
+    "answers": ["1.000", "880", "960", "800"],
+    "correct": "960",
+    "incorrect": ["1.000", "960", "800"]
+  },
+  {
+    "question": "Theo Điều lệ Hội Sinh viên Việt Nam, quyền của Hội viên là?",
+    "answers": [
+      "Sinh hoạt và đóng hội phí đầy đủ đúng quy định",
+      "Chấp hành Hiến pháp và pháp luật Nước Cộng hòa xã hội chủ nghĩa Việt Nam, giữ gìn nhân cách người sinh viên",
+      "Bàn bạc và giám sát các công việc của Hội, được ứng cử và đề cử vào cơ quan lãnh đạo các cấp của Hội",
+      "Thực hiện nghiêm chỉnh Điều lệ và các nghị quyết của Hội"
+    ],
+    "correct": "Bàn bạc và giám sát các công việc của Hội, được ứng cử và đề cử vào cơ quan lãnh đạo các cấp của Hội",
+    "incorrect": [
+      "Sinh hoạt và đóng hội phí đầy đủ đúng quy định",
+      "Chấp hành Hiến pháp và pháp luật Nước Cộng hòa xã hội chủ nghĩa Việt Nam, giữ gìn nhân cách người sinh viên",
+      "Bàn bạc và giám sát các công việc của Hội, được ứng cử và đề cử vào cơ quan lãnh đạo các cấp của Hội",
+      "Thực hiện nghiêm chỉnh Điều lệ và các nghị quyết của Hội"
+    ]
+  },
+  {
+    "question": "Đâu là tên của Đề án được xác định trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI?",
+    "answers": [
+      "Chuyển đổi số trong công tác tổ chức cơ sở Hội",
+      "Nâng cao chất lượng hoạt động Hội Sinh viên Việt Nam",
+      "Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam",
+      "Khung năng lực cán bộ Hội"
+    ],
+    "correct": "Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam",
+    "incorrect": [
+      "Chuyển đổi số trong công tác tổ chức cơ sở Hội",
+      "Nâng cao chất lượng hoạt động Hội Sinh viên Việt Nam",
+      "Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam",
+      "Khung năng lực cán bộ Hội"
+    ]
+  },
+  {
+    "question": "Một trong số các đề án trọng tâm được xác định trong Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+      "Đề án Thành lập Quỹ hỗ trợ sáng kiến vì cộng đồng.",
+      "Đề án Phát hiện, bồi dưỡng và phát huy Tài năng trẻ Việt Nam.",
+      "Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam."
+    ],
+    "correct": "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+    "incorrect": [
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+      "Đề án Thành lập Quỹ hỗ trợ sáng kiến vì cộng đồng.",
+      "Đề án Phát hiện, bồi dưỡng và phát huy Tài năng trẻ Việt Nam.",
+      "Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam."
+    ]
+  },
+  {
+    "question": "Đâu là tên của Đề án được xác định trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI?",
+    "answers": [
+      "Nâng cao kỹ năng thực hành xã hội, kỹ năng mềm cho sinh viên",
+      "Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam",
+      "Nâng cao hiệu quả các hoạt động tạo môi trường để sinh viên thực hành ngoại ngữ, kỹ năng hội nhập cho sinh viên",
+      "Đẩy mạnh ứng dụng chuyển đổi số trong hoạt động trang bị kỹ năng mềm cho sinh viên"
+    ],
+    "correct": "Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam",
+    "incorrect": [
+      "Nâng cao kỹ năng thực hành xã hội, kỹ năng mềm cho sinh viên",
+      "Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam",
+      "Nâng cao hiệu quả các hoạt động tạo môi trường để sinh viên thực hành ngoại ngữ, kỹ năng hội nhập cho sinh viên",
+      "Đẩy mạnh ứng dụng chuyển đổi số trong hoạt động trang bị kỹ năng mềm cho sinh viên"
+    ]
+  },
+  {
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI đã đưa ra chỉ tiêu về số lượng sinh viên đạt danh hiệu “Sinh viên 5 tốt” cấp trường là bao nhiêu?",
+    "answers": ["100.000", "200.000", "150.000", "250.000"],
+    "correct": "100.000",
+    "incorrect": ["100.000", "150.000", "250.000"]
+  },
+  {
+    "question": "Nghị quyết Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI xác định “Định kỳ tổ chức các diễn đàn, tọa đàm về cuộc đời, sự nghiệp của Bác. Xây dựng các mô hình làm theo ... Bác Hồ dạy sinh viên.”",
+    "answers": ["4 điều", "7 điều", "5 điều", "6 điều"],
+    "correct": "6 điều",
+    "incorrect": ["4 điều", "7 điều", "5 điều", "6 điều"]
+  },
+  {
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI đã đặt ra chỉ tiêu thành lập mới bao nhiêu tổ chức Hội Sinh viên Việt Nam các cấp?",
+    "answers": ["25", "15", "30", "20"],
+    "correct": "15",
+    "incorrect": ["25", "30", "20"]
+  },
+  {
+    "question": "Theo Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI, hiện nay có bao nhiêu sinh viên trên cả nước?",
+    "answers": [
+      "Khoảng hơn 2,3 triệu sinh viên.",
+      "Khoảng hơn 2,1 triệu sinh viên.",
+      "Khoảng hơn 2,2 triệu sinh viên.",
+      "Khoảng hơn 2 triệu sinh viên."
+    ],
+    "correct": "Khoảng hơn 2,1 triệu sinh viên.",
+    "incorrect": [
+      "Khoảng hơn 2,3 triệu sinh viên.",
+      "Khoảng hơn 2,1 triệu sinh viên.",
+      "Khoảng hơn 2,2 triệu sinh viên.",
+      "Khoảng hơn 2 triệu sinh viên."
+    ]
+  },
+  {
+    "question": "Hãy cho biết đâu là khẩu hiệu hành động của Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Vững bản sắc, giàu khát vọng - Kiến tạo tương lai, dựng xây đất nước.",
+      "Sinh viên Việt Nam - Vững bản sắc, giàu khát vọng - Kiến tạo tương lai, dựng xây đất nước.",
+      "Giàu khát vọng, vững bản sắc - Kiến tạo tương lai, dựng xây đất nước.",
+      "Sinh viên Việt Nam vững bản sắc, kiến tạo tương lai, dựng xây đất nước."
+    ],
+    "correct": "Sinh viên Việt Nam - Vững bản sắc, giàu khát vọng - Kiến tạo tương lai, dựng xây đất nước.",
+    "incorrect": [
+      "Vững bản sắc, giàu khát vọng - Kiến tạo tương lai, dựng xây đất nước.",
+      "Sinh viên Việt Nam - Vững bản sắc, giàu khát vọng - Kiến tạo tương lai, dựng xây đất nước.",
+      "Giàu khát vọng, vững bản sắc - Kiến tạo tương lai, dựng xây đất nước.",
+      "Sinh viên Việt Nam vững bản sắc, kiến tạo tương lai, dựng xây đất nước."
+    ]
+  },
+  {
+    "question": "Tên cơ quan lãnh đạo giữa 2 kỳ Đại hội Hội Sinh viên của các cấp là?",
+    "answers": [
+      "Thường trực Hội sinh viên các cấp, Liên chi Hội trưởng",
+      "Ban Chấp hành cùng cấp do Đại hội hiệp thương thống nhất bầu ra",
+      "Hội viên",
+      "Ban Thư ký cùng cấp do Ban Chấp hành thống nhất bầu ra"
+    ],
+    "correct": "Ban Chấp hành cùng cấp do Đại hội hiệp thương thống nhất bầu ra",
+    "incorrect": [
+      "Thường trực Hội sinh viên các cấp, Liên chi Hội trưởng",
+      "Ban Chấp hành cùng cấp do Đại hội hiệp thương thống nhất bầu ra",
+      "Hội viên",
+      "Ban Thư ký cùng cấp do Ban Chấp hành thống nhất bầu ra"
+    ]
+  },
+  {
+    "question": "Đâu là tên của Chương trình đồng hành, tư vấn hỗ trợ sinh viên được xác định trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI?",
+    "answers": [
+      "Đồng hành với thanh niên trong hội nhập quốc tế",
+      "Đồng hành với sinh viên rèn luyện và phát triển kỹ năng trong cuộc sống, nâng cao thể chất, đời sống văn hóa tinh thần",
+      "Đồng hành với sinh viên khởi nghiệp, lập nghiệp",
+      "Đồng hành với sinh viên phát triển kỹ năng, lập nghiệp, khởi nghiệp"
+    ],
+    "correct": "Đồng hành với sinh viên phát triển kỹ năng, lập nghiệp, khởi nghiệp",
+    "incorrect": [
+      "Đồng hành với thanh niên trong hội nhập quốc tế",
+      "Đồng hành với sinh viên rèn luyện và phát triển kỹ năng trong cuộc sống, nâng cao thể chất, đời sống văn hóa tinh thần",
+      "Đồng hành với sinh viên khởi nghiệp, lập nghiệp",
+      "Đồng hành với sinh viên phát triển kỹ năng, lập nghiệp, khởi nghiệp"
+    ]
+  },
+  {
+    "question": "Tỷ lệ sinh viên được tiếp cận các hoạt động nâng cao năng lực nghiên cứu khoa học được xác lập trong nhiệm kỳ 2023 - 2028 là bao nhiêu?",
+    "answers": ["100%", "80%", "90%", "70%"],
+    "correct": "70%",
+    "incorrect": ["100%", "80%", "90%", "70%"]
+  },
+  {
+    "question": "Đại hội đại biểu Hội Sinh viên Việt Nam lần thứ XI, nhiệm kỳ 2023 - 2028 đã hiệp thương bầu bao nhiêu đồng chí Uỷ viên Ban Chấp hành Trung ương Hội Sinh viên Việt Nam khoá XI, nhiệm kỳ 2023 – 2028?",
+    "answers": ["103 đồng chí", "102 đồng chí", "101 đồng chí", "104 đồng chí"],
+    "correct": "103 đồng chí",
+    "incorrect": [
+      "103 đồng chí",
+      "102 đồng chí",
+      "101 đồng chí",
+      "104 đồng chí"
+    ]
+  },
+  {
+    "question": "Có bao nhiêu dự án, ý tưởng khởi nghiệp đổi mới sáng tạo của sinh viên sẽ được đồng hành và hiện thực hóa trong nhiệm kỳ 2023 - 2028?",
+    "answers": [200, 100, 300, 500],
+    "correct": 500,
+    "incorrect": [200, 100, 300, 500]
+  },
+  {
+    "question": "Nghị quyết Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI đã xác định Công tác tuyên truyền, triển khai phong trào “Sinh viên 5 tốt” như nào?",
+    "answers": [
+      "Đẩy mạnh và đa dạng hóa các hình thức truyền thông về phong trào; chú trọng tuyên truyền về giá trị phong trào đến cộng đồng, xã hội",
+      "Triển khai toàn diện các bước từ đăng ký, tham gia hoạt động, bình xét, tuyên dương, kết nối và phát huy “Sinh viên 5 tốt”.",
+      "Cả 3 đáp án trên",
+      "Quan tâm làm tốt các hoạt động kết nối “Sinh viên 5 tốt”"
+    ],
+    "correct": "Cả 3 đáp án trên",
+    "incorrect": [
+      "Đẩy mạnh và đa dạng hóa các hình thức truyền thông về phong trào; chú trọng tuyên truyền về giá trị phong trào đến cộng đồng, xã hội",
+      "Triển khai toàn diện các bước từ đăng ký, tham gia hoạt động, bình xét, tuyên dương, kết nối và phát huy “Sinh viên 5 tốt”.",
+      "Cả 3 đáp án trên",
+      "Quan tâm làm tốt các hoạt động kết nối “Sinh viên 5 tốt”"
+    ]
+  },
+  {
+    "question": "Nhiệm kỳ 2023 - 2028, các cấp bộ Hội xác lập chỉ tiêu bao nhiêu lượt sinh viên được tham gia các hoạt động hỗ trợ nâng cao năng lực ngoại ngữ và hội nhập quốc tế?",
+    "answers": [
+      "05 triệu lượt",
+      "02 triệu lượt",
+      "10 triệu lượt",
+      "01 triệu lượt"
+    ],
+    "correct": "05 triệu lượt",
+    "incorrect": [
+      "05 triệu lượt",
+      "02 triệu lượt",
+      "10 triệu lượt",
+      "01 triệu lượt"
+    ]
+  },
+  {
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI xác định sẽ “Tiếp tục phối hợp chặt chẽ với Đoàn trong việc nâng cao chất lượng giới thiệu đoàn viên ưu tú là sinh viên cho Đảng xem xét, kết nạp”, đặc biệt là đối tượng nào?",
+    "answers": [
+      "Sinh viên đạt danh hiệu “Sinh viên 5 tốt”, giải thưởng “Sao tháng Giêng”, “Thủ lĩnh Sinh viên”",
+      "Cán bộ Hội là sinh viên",
+      "Cả 3 phương án trên",
+      "Sinh viên từ nguồn cán bộ Hội"
+    ],
+    "correct": "Sinh viên đạt danh hiệu “Sinh viên 5 tốt”, giải thưởng “Sao tháng Giêng”, “Thủ lĩnh Sinh viên”",
+    "incorrect": [
+      "Sinh viên đạt danh hiệu “Sinh viên 5 tốt”, giải thưởng “Sao tháng Giêng”, “Thủ lĩnh Sinh viên”",
+      "Cán bộ Hội là sinh viên",
+      "Cả 3 phương án trên",
+      "Sinh viên từ nguồn cán bộ Hội"
+    ]
+  },
+  {
+    "question": "Đâu là nội hàm của Chương trình xây dựng Hội Sinh viên Việt Nam vững mạnh, góp phần xây dựng, bảo vệ Đảng và hệ thống chính trị?",
+    "answers": [
+      "Kiên trì với phương châm “Đoàn mạnh, Hội rộng”, thực hiện đồng bộ các giải pháp xây dựng cơ sở Hội vững mạnh, đoàn kết tập hợp rộng rãi sinh viên",
+      "Cả 3 phương án trên",
+      "Các cấp bộ Hội tập trung xây dựng Hội Sinh viên Việt Nam vững mạnh về chính trị, tư tưởng, đạo đức, đảm bảo vai trò nòng cốt chính trị của Đoàn TNCS Hồ Chí Minh trong tổ chức và hành động",
+      "Tích cực tham gia xây dựng, bảo vệ Đảng và hệ thống chính trị"
+    ],
+    "correct": "Cả 3 phương án trên",
+    "incorrect": [
+      "Kiên trì với phương châm “Đoàn mạnh, Hội rộng”, thực hiện đồng bộ các giải pháp xây dựng cơ sở Hội vững mạnh, đoàn kết tập hợp rộng rãi sinh viên",
+      "Cả 3 phương án trên",
+      "Các cấp bộ Hội tập trung xây dựng Hội Sinh viên Việt Nam vững mạnh về chính trị, tư tưởng, đạo đức, đảm bảo vai trò nòng cốt chính trị của Đoàn TNCS Hồ Chí Minh trong tổ chức và hành động",
+      "Tích cực tham gia xây dựng, bảo vệ Đảng và hệ thống chính trị"
+    ]
+  },
+  {
+    "question": "Chương trình nào được xác định triển khai trong nhóm giải pháp Phát triển các nguồn học bổng sinh viên được xác định trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI?",
+    "answers": [
+      "Chương trình “Vững tương lai”",
+      "Chương trình “Vững bước đến trường”",
+      "Chương trình “Kỹ năng quản lý tài chính”",
+      "Chương trình “Chắp cánh nhân tài”"
+    ],
+    "correct": "Chương trình “Vững tương lai”",
+    "incorrect": [
+      "Chương trình “Vững tương lai”",
+      "Chương trình “Vững bước đến trường”",
+      "Chương trình “Kỹ năng quản lý tài chính”",
+      "Chương trình “Chắp cánh nhân tài”"
+    ]
+  },
+  {
+    "question": "Hãy cho biết tên và tác giả sáng tác bài hát chính thức của Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Bài hát “Khát vọng sinh viên Việt Nam” của tác giả, nhạc sĩ Mai Trâm",
+      "Bài hát “Thanh niên làm theo lời Bác” của nhạc sĩ Hoàng Hòa",
+      "Bài hát “Bài ca sinh viên” của tác giả Trần Hoàng Tiến",
+      "Bài hát “Lên đàng” của nhạc sĩ Lưu Hữu Phước"
+    ],
+    "correct": "Bài hát “Khát vọng sinh viên Việt Nam” của tác giả, nhạc sĩ Mai Trâm",
+    "incorrect": [
+      "Bài hát “Khát vọng sinh viên Việt Nam” của tác giả, nhạc sĩ Mai Trâm",
+      "Bài hát “Thanh niên làm theo lời Bác” của nhạc sĩ Hoàng Hòa",
+      "Bài hát “Bài ca sinh viên” của tác giả Trần Hoàng Tiến",
+      "Bài hát “Lên đàng” của nhạc sĩ Lưu Hữu Phước"
+    ]
+  },
+  {
+    "question": "Đâu KHÔNG phải là thành tố có trong khẩu hiệu hành động Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Sáng tạo",
+      "Kiến tạo tương lai",
+      "Vững bản sắc",
+      "Giàu khát vọng"
+    ],
+    "correct": "Sáng tạo",
+    "incorrect": [
+      "Sáng tạo",
+      "Kiến tạo tương lai",
+      "Vững bản sắc",
+      "Giàu khát vọng"
+    ]
+  },
+  {
+    "question": "Hãy cho biết đâu không phải tên Diễn đàn tại Đại hội Đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Sinh viên tình nguyện vì cuộc sống cộng đồng",
+      "Sinh viên rèn luyện đạo đức tác phong",
+      "Xây dựng tổ chức Hội Sinh viên vững mạnh",
+      "Sinh viên nâng cao đời sống văn hoá tinh thần, thể chất"
+    ],
+    "correct": "Sinh viên rèn luyện đạo đức tác phong",
+    "incorrect": [
+      "Sinh viên tình nguyện vì cuộc sống cộng đồng",
+      "Sinh viên rèn luyện đạo đức tác phong",
+      "Xây dựng tổ chức Hội Sinh viên vững mạnh",
+      "Sinh viên nâng cao đời sống văn hoá tinh thần, thể chất"
+    ]
+  },
+  {
+    "question": "Đâu là giải pháp phát huy vai trò của Ban Kiểm tra Hội Sinh viên Việt Nam các cấp được xác định trong Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Duy trì kiểm tra định kỳ",
+      "Tăng cường kiểm tra định kỳ, duy trì kiểm tra theo chuyên đề, đột xuất",
+      "Duy trì kiểm tra định kỳ, tăng cường kiểm tra theo chuyên đề, đột xuất",
+      "Tăng cường kiểm tra theo chuyên đề, đột xuất"
+    ],
+    "correct": "Duy trì kiểm tra định kỳ, tăng cường kiểm tra theo chuyên đề, đột xuất",
+    "incorrect": [
+      "Duy trì kiểm tra định kỳ",
+      "Tăng cường kiểm tra định kỳ, duy trì kiểm tra theo chuyên đề, đột xuất",
+      "Duy trì kiểm tra định kỳ, tăng cường kiểm tra theo chuyên đề, đột xuất",
+      "Tăng cường kiểm tra theo chuyên đề, đột xuất"
+    ]
+  },
+  {
+    "question": "Hội đồng tư vấn, đồng hành với sinh viên giai đoạn 2023 - 2028 gồm bao nhiêu thành viên?",
+    "answers": ["6", "9", "8", "7"],
+    "correct": "7",
+    "incorrect": ["6", "9", "8"]
+  },
+  {
+    "question": "Đâu là nhiệm vụ, giải pháp trong Công tác tổ chức cơ sở Hội được xác định trong nhiệm kỳ 2023-2028",
+    "answers": [
+      "Đổi mới công tác tuyên truyền, giới thiệu về Hội Sinh viên Việt Nam và phong trào sinh viên, trong đó chú trọng tuyên truyền trên các nền tảng số, đảm bảo thông tin chính xác, nhanh nhạy, kịp thời",
+      "Tổ chức các chương trình, hoạt động tạo môi trường cho sinh viên đóng góp, hiến kế các ý tưởng xây dựng tổ chức Hội Sinh viên Việt Nam vững mạnh",
+      "Hội Sinh viên Việt Nam cấp trường, cấp tỉnh hằng năm tổ chức ít nhất 1 hoạt động tập huấn kỹ năng, nghiệp vụ công tác Hội cho cán bộ Hội Sinh viên của đơn vị",
+      "Xây dựng đồng bộ các quy định, hướng dẫn đánh giá, xếp loại các tổ chức cơ sở Hội; quy chế thi đua khen thưởng. Hoàn thiện hệ thống trực tuyến đánh giá, xếp loại thi đua các cơ sở Hội trực thuộc Trung ương"
+    ],
+    "correct": "Đổi mới công tác tuyên truyền, giới thiệu về Hội Sinh viên Việt Nam và phong trào sinh viên, trong đó chú trọng tuyên truyền trên các nền tảng số, đảm bảo thông tin chính xác, nhanh nhạy, kịp thời",
+    "incorrect": [
+      "Đổi mới công tác tuyên truyền, giới thiệu về Hội Sinh viên Việt Nam và phong trào sinh viên, trong đó chú trọng tuyên truyền trên các nền tảng số, đảm bảo thông tin chính xác, nhanh nhạy, kịp thời",
+      "Tổ chức các chương trình, hoạt động tạo môi trường cho sinh viên đóng góp, hiến kế các ý tưởng xây dựng tổ chức Hội Sinh viên Việt Nam vững mạnh",
+      "Hội Sinh viên Việt Nam cấp trường, cấp tỉnh hằng năm tổ chức ít nhất 1 hoạt động tập huấn kỹ năng, nghiệp vụ công tác Hội cho cán bộ Hội Sinh viên của đơn vị",
+      "Xây dựng đồng bộ các quy định, hướng dẫn đánh giá, xếp loại các tổ chức cơ sở Hội; quy chế thi đua khen thưởng. Hoàn thiện hệ thống trực tuyến đánh giá, xếp loại thi đua các cơ sở Hội trực thuộc Trung ương"
+    ]
+  },
+  {
+    "question": "Văn kiện Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI xác định phân loại, đánh giá các cơ sở Hội dựa trên Bộ chỉ số nào?",
+    "answers": [
+      "Bộ Chỉ số năng lực sinh viên",
+      "Bộ Chỉ số phát triển sinh viên",
+      "Bộ Chỉ số nâng cao năng lực số sinh viên",
+      "Bộ Chỉ số phát triển năng lực số sinh viên"
+    ],
+    "correct": "Bộ Chỉ số phát triển sinh viên",
+    "incorrect": [
+      "Bộ Chỉ số năng lực sinh viên",
+      "Bộ Chỉ số phát triển sinh viên",
+      "Bộ Chỉ số nâng cao năng lực số sinh viên",
+      "Bộ Chỉ số phát triển năng lực số sinh viên"
+    ]
+  },
+  {
+    "question": "Trong phiên làm việc thứ hai, các đại biểu dự Đại hội đã thảo luận về dự thảo các văn kiện trình Đại hội tại bao nhiêu diễn đàn?",
+    "answers": ["10 diễn đàn", "07 diễn đàn", "08 diễn đàn", "09 diễn đàn"],
+    "correct": "10 diễn đàn",
+    "incorrect": ["10 diễn đàn", "07 diễn đàn", "08 diễn đàn", "09 diễn đàn"]
+  },
+  {
+    "question": "Đại hội đai biểu toàn quốc Hội Sinh viên Việt Nam được tổ chức bao lâu một lần?",
+    "answers": ["4 năm 1 lần", "10 năm 1 lần", "5 năm 1 lần", "5 năm 2 lần"],
+    "correct": "5 năm 1 lần",
+    "incorrect": ["4 năm 1 lần", "10 năm 1 lần", "5 năm 1 lần", "5 năm 2 lần"]
+  },
+  {
+    "question": "Nhiệm kỳ của Đại hội đại biểu cấp trường, Liên chi hội kéo dài bao lâu?",
+    "answers": ["02 năm", "05 năm 02 lần", "05 năm", "01 năm"],
+    "correct": "05 năm 02 lần",
+    "incorrect": ["02 năm", "05 năm 02 lần", "05 năm", "01 năm"]
+  },
+  {
+    "question": "Nhiệm kỳ 2023 - 2028, Hội Sinh viên Việt Nam các cấp đã xác lập tỷ lệ cán bộ Hội, hội viên được nghiên cứu, học tập, quán triệt, tuyên truyền nghị quyết, chủ trương, chính sách của Đảng, Nhà nước, của Đoàn, Hội là bao nhiêu?",
+    "answers": ["100%", "80%", "95%", "90%"],
+    "correct": "90%",
+    "incorrect": ["100%", "80%", "95%", "90%"]
+  },
+  {
+    "question": "Đâu là thành tố có trong khẩu hiệu hành động Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": ["Sáng tạo", "Tình nguyện", "Vững bản sắc", "Bản lĩnh"],
+    "correct": "Vững bản sắc",
+    "incorrect": ["Sáng tạo", "Tình nguyện", "Vững bản sắc", "Bản lĩnh"]
+  },
+  {
+    "question": "Theo nghị quyết Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI, liên hoan “Câu lạc bộ Sinh viên 5 tốt” toàn quốc được tổ chức bao lâu 1 lần?",
+    "answers": ["2 lần/ năm", "5 năm 2 lần", "2 năm/ lần", "1 năm/ lần"],
+    "correct": "5 năm 2 lần",
+    "incorrect": ["2 lần/ năm", "5 năm 2 lần", "2 năm/ lần", "1 năm/ lần"]
+  },
+  {
+    "question": "Đâu là tên của Chương trình đồng hành, tư vấn hỗ trợ sinh viên được xác định trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI?",
+    "answers": [
+      "Đồng hành với sinh viên nâng cao đời sống văn hóa tinh thần",
+      "Đồng hành với sinh viên trong chuyển đổi số",
+      "Đồng hành với sinh viên trong nghiên cứu khoa học",
+      "Đồng hành với sinh viên rèn luyện và phát triển kỹ năng trong cuộc sống, nâng cao thể chất, đời sống văn hóa tinh thần"
+    ],
+    "correct": "Đồng hành với sinh viên nâng cao đời sống văn hóa tinh thần",
+    "incorrect": [
+      "Đồng hành với sinh viên nâng cao đời sống văn hóa tinh thần",
+      "Đồng hành với sinh viên trong chuyển đổi số",
+      "Đồng hành với sinh viên trong nghiên cứu khoa học",
+      "Đồng hành với sinh viên rèn luyện và phát triển kỹ năng trong cuộc sống, nâng cao thể chất, đời sống văn hóa tinh thần"
+    ]
+  },
+  {
+    "question": "Theo Văn kiện Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI, có bao nhiêu bài học kinh nghiệm đã được đúc kết trong nhiệm kỳ 2018 - 2023?",
+    "answers": ["05 bài học", "08 bài học", "07 bài học", "06 bài học"],
+    "correct": "05 bài học",
+    "incorrect": ["05 bài học", "08 bài học", "07 bài học", "06 bài học"]
+  },
+  {
+    "question": "Văn kiện Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI xác định triển khai bao nhiêu chương trình, đề án trọng tâm trong nhiệm kỳ 2023 – 2028?",
+    "answers": [
+      "3 chương trình, 3 đề án.",
+      "2 chương trình, 4 đề án.",
+      "2 chương trình, 3 đề án.",
+      "3 chương trình, 2 đề án."
+    ],
+    "correct": "3 chương trình, 3 đề án.",
+    "incorrect": [
+      "3 chương trình, 3 đề án.",
+      "2 chương trình, 4 đề án.",
+      "2 chương trình, 3 đề án.",
+      "3 chương trình, 2 đề án."
+    ]
+  },
+  {
+    "question": "Đâu là tên của Chương trình đồng hành, tư vấn hỗ trợ sinh viên được xác định trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI?",
+    "answers": [
+      "Đồng hành, hỗ trợ sinh viên trong đời sống, bảo vệ quyền và lợi ích hợp pháp, chính đáng của sinh viên",
+      "Đồng hành với thanh niên phát triển kỹ năng",
+      "Đồng hành với sinh viên trong nghề nghiệp và việc làm",
+      "Đồng hành với sinh viên trong học tập"
+    ],
+    "correct": "Đồng hành, hỗ trợ sinh viên trong đời sống, bảo vệ quyền và lợi ích hợp pháp, chính đáng của sinh viên",
+    "incorrect": [
+      "Đồng hành, hỗ trợ sinh viên trong đời sống, bảo vệ quyền và lợi ích hợp pháp, chính đáng của sinh viên",
+      "Đồng hành với thanh niên phát triển kỹ năng",
+      "Đồng hành với sinh viên trong nghề nghiệp và việc làm",
+      "Đồng hành với sinh viên trong học tập"
+    ]
+  },
+  {
+    "question": "Tỷ lệ sinh viên được tiếp cận các hoạt động nâng cao năng lực số, sử dụng tài khoản thanh toán điện tử và sử dụng dịch vụ công trực tuyến được xác định trong nhiệm kỳ 2023 - 2028 lần lượt là bao nhiêu?",
+    "answers": [
+      "80%, 90%, 70%",
+      "90%, 80%, 70%",
+      "80%, 70%, 90%",
+      "90%, 70%, 80%"
+    ],
+    "correct": "90%, 80%, 70%",
+    "incorrect": [
+      "80%, 90%, 70%",
+      "90%, 80%, 70%",
+      "80%, 70%, 90%",
+      "90%, 70%, 80%"
+    ]
+  },
+  {
+    "question": "Đâu không phải là giải pháp trong nội dung sinh viên chủ động hội nhập quốc tế tại Văn kiện Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI",
+    "answers": [
+      "Tăng cường tuyên truyền, nâng cao nhận thức, tâm thế chủ động hội nhập quốc tế trong sinh viên",
+      "Nâng cao hiệu quả các hoạt động tạo môi trường để sinh viên thực hành ngoại ngữ, kỹ năng hội nhập cho sinh viên",
+      "Khuyến khích sinh viên sử dụng thành thạo 02 ngoại ngữ.",
+      "Tổ chức các sân chơi, hoạt động giao lưu quốc tế cho sinh viên"
+    ],
+    "correct": "Khuyến khích sinh viên sử dụng thành thạo 02 ngoại ngữ.",
+    "incorrect": [
+      "Tăng cường tuyên truyền, nâng cao nhận thức, tâm thế chủ động hội nhập quốc tế trong sinh viên",
+      "Nâng cao hiệu quả các hoạt động tạo môi trường để sinh viên thực hành ngoại ngữ, kỹ năng hội nhập cho sinh viên",
+      "Khuyến khích sinh viên sử dụng thành thạo 02 ngoại ngữ.",
+      "Tổ chức các sân chơi, hoạt động giao lưu quốc tế cho sinh viên"
+    ]
+  },
+  {
+    "question": "Theo Nghị quyết Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI, mỗi sinh viên cần luyệt tập bao nhiêu môn thể thao?",
+    "answers": ["Một", "Bốn", "Hai", "Ba"],
+    "correct": "Một",
+    "incorrect": ["Một", "Bốn", "Hai", "Ba"]
+  },
+  {
+    "question": "Các hình thức kỷ luật đối với cán bộ, hội viên bao gồm?",
+    "answers": [
+      "Khiển trách, cảnh cáo, cách chức, khai trừ ra khỏi Hội",
+      "Cảnh cáo, khai trừ ra khỏi Hội",
+      "Cảnh cáo, cách chức, khai trừ ra khỏi Hội",
+      "Khiển trách, cảnh cáo, khai trừ ra khỏi Hội"
+    ],
+    "correct": "Khiển trách, cảnh cáo, cách chức, khai trừ ra khỏi Hội",
+    "incorrect": [
+      "Khiển trách, cảnh cáo, cách chức, khai trừ ra khỏi Hội",
+      "Cảnh cáo, khai trừ ra khỏi Hội",
+      "Cảnh cáo, cách chức, khai trừ ra khỏi Hội",
+      "Khiển trách, cảnh cáo, khai trừ ra khỏi Hội"
+    ]
+  },
+  {
+    "question": "Trong Văn kiện Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI xác định triển khai Khung kỹ năng gì giúp sinh viên sinh viên phát triển kỹ năng, lập nghiệp, khởi nghiệp?",
+    "answers": [
+      "Khung kỹ năng khởi nghiệp",
+      "Khung năng lực cán bộ Hội",
+      "Khung kỹ năng thực hành xã hội",
+      "Khung kỹ năng lập nghiệp"
+    ],
+    "correct": "Khung năng lực cán bộ Hội",
+    "incorrect": [
+      "Khung kỹ năng khởi nghiệp",
+      "Khung năng lực cán bộ Hội",
+      "Khung kỹ năng thực hành xã hội",
+      "Khung kỹ năng lập nghiệp"
+    ]
+  },
+  {
+    "question": "Nghị quyết Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI xác định đối tượng nào là trung tâm, chủ thể của hoạt động?",
+    "answers": ["Sinh viên", "Người học", "Hội viên", "Học sinh, sinh viên"],
+    "correct": "Sinh viên",
+    "incorrect": ["Sinh viên", "Người học", "Hội viên", "Học sinh, sinh viên"]
+  },
+  {
+    "question": "Hãy cho biết quan điểm chỉ đạo chung về triển khai các chương trình đồng hành, tư vấn hỗ trợ sinh viên giai đoạn 2023 - 2028?",
+    "answers": [
+      "Xây dựng các giải pháp đặc thù cho nhóm sinh viên tài năng, sinh viên yếu thế và sinh viên dân tộc thiểu số",
+      "Tổ chức các hoạt động tư vấn, chăm sóc sức khỏe thể chất, tâm thần cho sinh viên.",
+      "Đẩy mạnh các hoạt động tư vấn, hỗ trợ sinh viên để tổ chức Hội thật sự trở thành người bạn đồng hành tin cậy của sinh viên",
+      "Tất cả các đáp án trên"
+    ],
+    "correct": "Tất cả các đáp án trên",
+    "incorrect": [
+      "Xây dựng các giải pháp đặc thù cho nhóm sinh viên tài năng, sinh viên yếu thế và sinh viên dân tộc thiểu số",
+      "Tổ chức các hoạt động tư vấn, chăm sóc sức khỏe thể chất, tâm thần cho sinh viên.",
+      "Đẩy mạnh các hoạt động tư vấn, hỗ trợ sinh viên để tổ chức Hội thật sự trở thành người bạn đồng hành tin cậy của sinh viên",
+      "Tất cả các đáp án trên"
+    ]
+  },
+  {
+    "question": "Điểm mới được xây dựng trong mục tiêu, nhiệm vụ, giải pháp công tác Hội và phong trào sinh viên Việt Nam nhiệm kỳ XI (2023 – 2028)?",
+    "answers": [
+      "Công tác kiểm tra, thi đua khen thưởng",
+      "Công tác tổ chức cơ sở Hội",
+      "Công tác cán bộ Hội",
+      "Phát huy vai trò của sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị"
+    ],
+    "correct": "Phát huy vai trò của sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị",
+    "incorrect": [
+      "Công tác kiểm tra, thi đua khen thưởng",
+      "Công tác tổ chức cơ sở Hội",
+      "Công tác cán bộ Hội",
+      "Phát huy vai trò của sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị"
+    ]
+  },
+  {
+    "question": "Theo Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI, trong bối cảnh hiện nay sinh viên và Hội Sinh viên Việt Nam có thời cơ, động lực thuận lợi nào để phát triển?",
+    "answers": [
+      "Cả 3 đáp án trên.",
+      "Điều kiện học tập, nghiên cứu được quan tâm đầu tư và khả năng tiếp cận thị trường lao động được mở rộng.",
+      "Sự phát triển của khoa học công nghệ; chủ trương phát triển nền kinh tế tri thức giúp gia tăng cơ hội cho sinh viên đóng góp phát triển đất nước và tham gia đời sống chính trị.",
+      "Dưới sự lãnh đạo của Đảng Cộng Sản Việt Nam và vai trò nòng cốt chính trị của Đoàn Thanh niên Cộng sản Hồ Chí Minh."
+    ],
+    "correct": "Cả 3 đáp án trên.",
+    "incorrect": [
+      "Cả 3 đáp án trên.",
+      "Điều kiện học tập, nghiên cứu được quan tâm đầu tư và khả năng tiếp cận thị trường lao động được mở rộng.",
+      "Sự phát triển của khoa học công nghệ; chủ trương phát triển nền kinh tế tri thức giúp gia tăng cơ hội cho sinh viên đóng góp phát triển đất nước và tham gia đời sống chính trị.",
+      "Dưới sự lãnh đạo của Đảng Cộng Sản Việt Nam và vai trò nòng cốt chính trị của Đoàn Thanh niên Cộng sản Hồ Chí Minh."
+    ]
+  },
+  {
+    "question": "Đâu là nhiệm vụ của Nhiệm vụ của Đại hội đại biểu Hội sinh viên các cấp?",
+    "answers": [
+      "Thảo luận góp ý vào các văn kiện",
+      "Tất cả đáp án trên",
+      "Hiệp thương bầu ra Ban Chấp hành, Ban Kiểm tra Hội cùng cấp",
+      "Quyết định mục tiêu, chương trình hành động của Hội nhiệm kỳ mới"
+    ],
+    "correct": "Tất cả đáp án trên",
+    "incorrect": [
+      "Thảo luận góp ý vào các văn kiện",
+      "Tất cả đáp án trên",
+      "Hiệp thương bầu ra Ban Chấp hành, Ban Kiểm tra Hội cùng cấp",
+      "Quyết định mục tiêu, chương trình hành động của Hội nhiệm kỳ mới"
+    ]
+  },
+  {
+    "question": "Đâu là tên của Đề án trọng tâm của nhiệm kỳ 2023-2028 gắn liền với công tác cán bộ Hội?",
+    "answers": [
+      "Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam",
+      "Đề án Nâng cao năng lực số cho cán bộ Hội Sinh viên Việt Nam",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên",
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam"
+    ],
+    "correct": "Đề án Nâng cao năng lực số cho cán bộ Hội Sinh viên Việt Nam",
+    "incorrect": [
+      "Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam",
+      "Đề án Nâng cao năng lực số cho cán bộ Hội Sinh viên Việt Nam",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên",
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam"
+    ]
+  },
+  {
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI nêu phương châm về cán bộ Hội tự phòng ngừa, đấu tranh phản bác các luận điệu xuyên tạc của các thế lực thù địch, chống phá là gì?",
+    "answers": [
+      "“Nhận thức đúng, thông tin đủ, hành động kịp thời, kết nối rộng, lan toả nhanh”",
+      "“Nhận thức đủ, thông tin đúng, hành động nhanh, kết nối mạnh, lan toả rộng”",
+      "“Nhận thức đúng, thông tin đủ, hành động nhanh, kết nối mạnh, lan toả rộng”",
+      "“Nhận thức đúng, thông tin đủ, hành động kịp thời, kết nối mạnh, lan toả rộng”"
+    ],
+    "correct": "“Nhận thức đúng, thông tin đủ, hành động nhanh, kết nối mạnh, lan toả rộng”",
+    "incorrect": [
+      "“Nhận thức đúng, thông tin đủ, hành động kịp thời, kết nối rộng, lan toả nhanh”",
+      "“Nhận thức đủ, thông tin đúng, hành động nhanh, kết nối mạnh, lan toả rộng”",
+      "“Nhận thức đúng, thông tin đủ, hành động nhanh, kết nối mạnh, lan toả rộng”",
+      "“Nhận thức đúng, thông tin đủ, hành động kịp thời, kết nối mạnh, lan toả rộng”"
+    ]
+  },
+  {
+    "question": "Đâu là nhiệm vụ của Ban Chấp hành Trung ương Hội, Hội Sinh viên cấp tỉnh, thành phố trực thuộc Trung ương và cấp trường?",
+    "answers": [
+      "Chuẩn bị nội dung các kỳ họp Ban Chấp hành Hội cùng cấp",
+      "Quyết định các chương trình hành động, nhiệm vụ đối nội, đối ngoại và công tác tổ chức, kiểm tra và tài chính của Hội cùng cấp",
+      "Phối hợp với các cơ quan của Nhà nước, các tổ chức đoàn thể để giải quyết những vấn đề có liên quan đến công tác Hội và phong trào sinh viên",
+      "Chuẩn y kết nạp hội viên mới của các chi hội"
+    ],
+    "correct": "Quyết định các chương trình hành động, nhiệm vụ đối nội, đối ngoại và công tác tổ chức, kiểm tra và tài chính của Hội cùng cấp",
+    "incorrect": [
+      "Chuẩn bị nội dung các kỳ họp Ban Chấp hành Hội cùng cấp",
+      "Quyết định các chương trình hành động, nhiệm vụ đối nội, đối ngoại và công tác tổ chức, kiểm tra và tài chính của Hội cùng cấp",
+      "Phối hợp với các cơ quan của Nhà nước, các tổ chức đoàn thể để giải quyết những vấn đề có liên quan đến công tác Hội và phong trào sinh viên",
+      "Chuẩn y kết nạp hội viên mới của các chi hội"
+    ]
+  },
+  {
+    "question": "Số lượng ủy viên Ban Chấp hành Hội Sinh viên cấp trường (dưới 10.000 sinh viên) là bao nhiêu?",
+    "answers": [
+      "Từ 05 đến 15 ủy viên",
+      "Từ 11 đến 21 ủy viên",
+      "Từ 17 đến 25 ủy viên",
+      "Từ 15 đến 23 ủy viên"
+    ],
+    "correct": "Từ 11 đến 21 ủy viên",
+    "incorrect": [
+      "Từ 05 đến 15 ủy viên",
+      "Từ 11 đến 21 ủy viên",
+      "Từ 17 đến 25 ủy viên",
+      "Từ 15 đến 23 ủy viên"
+    ]
+  },
+  {
+    "question": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương Hội Sinh viên Việt Nam khoá XI đã hiệp thương bầu bao nhiêu đồng chí giữ chức Phó Chủ tịch Trung ương Hội Sinh viên Việt Nam khoá XI, nhiệm kỳ 2023 – 2028?",
+    "answers": ["08 đồng chí", "06 đồng chí", "05 đồng chí", "07 đồng chí"],
+    "correct": "05 đồng chí",
+    "incorrect": ["08 đồng chí", "06 đồng chí", "05 đồng chí", "07 đồng chí"]
+  },
+  {
+    "question": "Đâu không phải mục tiêu của Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Xây dựng Hội Sinh viên Việt Nam vững mạnh toàn diện, nhất là về chính trị; là tổ chức của sinh viên, do sinh viên, vì sinh viên; đoàn kết, tập hợp rộng rãi sinh viên Việt Nam ở trong và ngoài nước.",
+      "Xây dựng môi trường để sinh viên phát triển toàn diện và phát huy tốt nhất tiềm năng, thế mạnh của sinh viên.",
+      "Phát huy tinh thần xung kích, tình nguyện, sáng tạo, trách nhiệm của thanh niên trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đặc biệt là trong hội nhập quốc tế, chuyển đổi số quốc gia, góp phần hiện thực hóa mục tiêu phát triển đất nước đến năm 2030, tầm nhìn đến năm 2045.",
+      "Khơi dậy mạnh mẽ trong sinh viên Việt Nam khát vọng phát triển đất nước giàu mạnh, phồn vinh, văn minh, hạnh phúc; khẳng định niềm tin của sinh viên đối với Đảng, Nhà nước, chế độ Xã hội chủ nghĩa."
+    ],
+    "correct": "Phát huy tinh thần xung kích, tình nguyện, sáng tạo, trách nhiệm của thanh niên trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đặc biệt là trong hội nhập quốc tế, chuyển đổi số quốc gia, góp phần hiện thực hóa mục tiêu phát triển đất nước đến năm 2030, tầm nhìn đến năm 2045.",
+    "incorrect": [
+      "Xây dựng Hội Sinh viên Việt Nam vững mạnh toàn diện, nhất là về chính trị; là tổ chức của sinh viên, do sinh viên, vì sinh viên; đoàn kết, tập hợp rộng rãi sinh viên Việt Nam ở trong và ngoài nước.",
+      "Xây dựng môi trường để sinh viên phát triển toàn diện và phát huy tốt nhất tiềm năng, thế mạnh của sinh viên.",
+      "Phát huy tinh thần xung kích, tình nguyện, sáng tạo, trách nhiệm của thanh niên trong sự nghiệp xây dựng và bảo vệ Tổ quốc, đặc biệt là trong hội nhập quốc tế, chuyển đổi số quốc gia, góp phần hiện thực hóa mục tiêu phát triển đất nước đến năm 2030, tầm nhìn đến năm 2045.",
+      "Khơi dậy mạnh mẽ trong sinh viên Việt Nam khát vọng phát triển đất nước giàu mạnh, phồn vinh, văn minh, hạnh phúc; khẳng định niềm tin của sinh viên đối với Đảng, Nhà nước, chế độ Xã hội chủ nghĩa."
+    ]
+  },
+  {
+    "question": "Các hình thức kỷ luật đối với các cấp Hội bao gồm?",
+    "answers": [
+      "Khiển trách, cách chức, giải thể",
+      "Khiển trách, cảnh cáo",
+      "Khiển trách, cảnh cáo, cách chức, giải thể",
+      "Khiển trách, cảnh cáo, giải thể"
+    ],
+    "correct": "Khiển trách, cảnh cáo, giải thể",
+    "incorrect": [
+      "Khiển trách, cách chức, giải thể",
+      "Khiển trách, cảnh cáo",
+      "Khiển trách, cảnh cáo, cách chức, giải thể",
+      "Khiển trách, cảnh cáo, giải thể"
+    ]
+  },
+  {
+    "question": "Theo Điều lệ Hội Sinh viên Việt Nam, hội nghị Ban Chấp hành Hội Sinh viên cấp trường, Liên chi hội một năm họp bao nhiêu lần?",
+    "answers": ["Ít nhất 4 lần", "1 lần", "3 lần", "2 lần"],
+    "correct": "Ít nhất 4 lần",
+    "incorrect": ["Ít nhất 4 lần", "1 lần", "3 lần", "2 lần"]
+  },
+  {
+    "question": "Trong nhiệm kỳ 2023 - 2028, các cấp bộ Hội đặt ra chỉ tiêu huy động bao nhiêu tỷ đồng để trao học bổng, giải thưởng, vay ưu đãi lãi suất?",
+    "answers": ["30 tỷ đồng", "50 tỷ đồng", "500 tỷ đồng", "300 tỷ đồng"],
+    "correct": "300 tỷ đồng",
+    "incorrect": ["30 tỷ đồng", "50 tỷ đồng", "500 tỷ đồng", "300 tỷ đồng"]
+  },
+  {
+    "question": "Đâu KHÔNG phải là tên đề án trọng tâm được xác định trong Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+      "Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam.",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên.",
+      "Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam."
+    ],
+    "correct": "Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam.",
+    "incorrect": [
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+      "Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam.",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên.",
+      "Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam."
+    ]
+  },
+  {
+    "question": "Đại hội đại biểu toàn quốc Hội sinh viên Việt Nam lần thứ XI, nhiệm kỳ 2023 - 2028 xác định bao nhiêu đề án trọng tâm của nhiệm kỳ?",
+    "answers": ["06 đề án", "03 đề án", "04 đề án", "05 đề án"],
+    "correct": "03 đề án",
+    "incorrect": ["06 đề án", "03 đề án", "04 đề án", "05 đề án"]
+  },
+  {
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI đã đưa ra chỉ tiêu về số lượng sinh viên đạt danh hiệu “Sinh viên 5 tốt” cấp Trung ương là bao nhiêu?",
+    "answers": ["950", "900", "1000", "800"],
+    "correct": "1000",
+    "incorrect": ["950", "900", "800"]
+  },
+  {
+    "question": "Tỉ lệ tập hợp sinh viên trong nhiệm kỳ 2023 - 2028 được xác định tại Đại hội XI?",
+    "answers": ["95%", "90%", "100%", "80%"],
+    "correct": "80%",
+    "incorrect": ["95%", "90%", "100%", "80%"]
+  },
+  {
+    "question": "Theo Văn kiện Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI, có bao nhiêu hội viên Hội Sinh viên Việt Nam?",
+    "answers": [
+      "1,1 triệu hội viên",
+      "1,3 triệu hội viên",
+      "1,5 triệu hội viên",
+      "1,7 triệu hội viên"
+    ],
+    "correct": "1,7 triệu hội viên",
+    "incorrect": [
+      "1,1 triệu hội viên",
+      "1,3 triệu hội viên",
+      "1,5 triệu hội viên",
+      "1,7 triệu hội viên"
+    ]
+  },
+  {
+    "question": "Đại hội Hội Sinh viên toàn quốc được tổ chức bao lâu một lần?",
+    "answers": ["4 năm 1 lần", "2 năm 1 lần", "5 năm 1 lần", "10 năm 1 lần"],
+    "correct": "5 năm 1 lần",
+    "incorrect": ["4 năm 1 lần", "2 năm 1 lần", "5 năm 1 lần", "10 năm 1 lần"]
+  },
+  {
+    "question": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương Hội Sinh viên Việt Nam khoá XI đã hiệp thương bầu bao nhiêu đồng chí vào Ban Kiểm tra Trung ương Hội Sinh viên Việt Nam khoá XI, nhiệm kỳ 2023 – 2028?",
+    "answers": ["13 đồng chí", "16 đồng chí", "14 đồng chí", "15 đồng chí"],
+    "correct": "15 đồng chí",
+    "incorrect": ["13 đồng chí", "16 đồng chí", "14 đồng chí", "15 đồng chí"]
+  },
+  {
+    "question": "Số lượng ủy viên Ban Thư ký của Hội Sinh viên cấp trường là?",
+    "answers": [
+      "Không quá 1/3 số lượng ủy viên Ban Chấp hành",
+      "Không quá 2/5 số lượng ủy viên Ban Chấp hành",
+      "Không quá 1/2 số lượng ủy viên Ban Chấp hành",
+      "Không quá 2/3 số lượng ủy viên Ban Chấp hành"
+    ],
+    "correct": "Không quá 1/3 số lượng ủy viên Ban Chấp hành",
+    "incorrect": [
+      "Không quá 1/3 số lượng ủy viên Ban Chấp hành",
+      "Không quá 2/5 số lượng ủy viên Ban Chấp hành",
+      "Không quá 1/2 số lượng ủy viên Ban Chấp hành",
+      "Không quá 2/3 số lượng ủy viên Ban Chấp hành"
+    ]
+  },
+  {
+    "question": "Trong nhiệm kỳ 2023 - 2028, các cấp bộ Hội đã xác lập bao nhiêu chỉ tiêu trọng tâm của cả nhiệm kỳ?",
+    "answers": ["10 chỉ tiêu", "11 chỉ tiêu", "12 chỉ tiêu", "09 chỉ tiêu"],
+    "correct": "11 chỉ tiêu",
+    "incorrect": ["10 chỉ tiêu", "11 chỉ tiêu", "12 chỉ tiêu", "09 chỉ tiêu"]
+  },
+  {
+    "question": "Bài ca chính thức của Hội Sinh viên Việt Nam là?",
+    "answers": [
+      "Sinh viên Việt Nam tự hào tiếp bước",
+      "Bài ca Sinh viên",
+      "Sáng mãi ngọn lửa Trần Văn Ơn",
+      "Khát vọng Sinh viên Việt Nam"
+    ],
+    "correct": "Bài ca Sinh viên",
+    "incorrect": [
+      "Sinh viên Việt Nam tự hào tiếp bước",
+      "Bài ca Sinh viên",
+      "Sáng mãi ngọn lửa Trần Văn Ơn",
+      "Khát vọng Sinh viên Việt Nam"
+    ]
+  },
+  {
+    "question": "Chương trình xây dựng Hội Sinh viên Việt Nam vững mạnh, góp phần xây dựng bảo vệ Đảng và hệ thống chính trị đề cập đến những nội dung nào?",
+    "answers": [
+      "Công tác cán bộ Hội; Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác kiểm tra, thi đua khen thưởng; Phát huy vai trò sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị",
+      "Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác cán bộ Hội, Công tác kiểm tra, thi đua khen thưởng; Công tác chỉ đạo",
+      "Công tác cán bộ Hội; Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác chỉ đạo; Phát huy vai trò sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị",
+      "Công tác hội viên; Công tác tổ chức cán bộ; Công tác kiểm tra, thi đua khen thưởng; Công tác tổ chức cơ sở Hội"
+    ],
+    "correct": "Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác cán bộ Hội, Công tác kiểm tra, thi đua khen thưởng; Công tác chỉ đạo",
+    "incorrect": [
+      "Công tác cán bộ Hội; Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác kiểm tra, thi đua khen thưởng; Phát huy vai trò sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị",
+      "Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác cán bộ Hội, Công tác kiểm tra, thi đua khen thưởng; Công tác chỉ đạo",
+      "Công tác cán bộ Hội; Công tác tổ chức cơ sở Hội; Công tác hội viên; Công tác chỉ đạo; Phát huy vai trò sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị",
+      "Công tác hội viên; Công tác tổ chức cán bộ; Công tác kiểm tra, thi đua khen thưởng; Công tác tổ chức cơ sở Hội"
+    ]
+  },
+  {
+    "question": "Hãy cho biết thành tố nào có trong chủ đề Báo cáo chính trị của Ban Chấp hành Trung ương Hội Sinh viên Việt Nam khóa X trình Đại hội Hội Sinh viên toàn quốc lần thứ XI?",
+    "answers": [
+      "Xây dựng khát vọng phát triển đất nước giàu mạnh",
+      "Hội nhập quốc tế mạnh mẽ",
+      "Phát huy tinh thần xung kích, tình nguyện, sáng tạo, trách nhiệm của sinh viên",
+      "Bồi đắp lý tưởng cách mạng, giáo dục đạo đức, lối sống văn hóa cho sinh viên"
+    ],
+    "correct": "Xây dựng khát vọng phát triển đất nước giàu mạnh",
+    "incorrect": [
+      "Xây dựng khát vọng phát triển đất nước giàu mạnh",
+      "Hội nhập quốc tế mạnh mẽ",
+      "Phát huy tinh thần xung kích, tình nguyện, sáng tạo, trách nhiệm của sinh viên",
+      "Bồi đắp lý tưởng cách mạng, giáo dục đạo đức, lối sống văn hóa cho sinh viên"
+    ]
+  },
+  {
+    "question": "Hãy cho biết điểm mới trong công tác tổ chức Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI, nhiệm kỳ 2023 - 2028?",
+    "answers": [
+      "Tổ chức các hội nghị góp ý Văn kiện Đại hội",
+      "Hội Sinh viên Việt Nam xây dựng và triển khai dùng chung một Ứng dụng Đại hội Hội Sinh viên cho tất cả đại hội, hội nghị từ cấp cơ sở",
+      "Trung ương Hội Sinh viên Việt Nam tổ chức thi thiết kế Logo chính thức cho Đại hội",
+      "Trung ương Hội Sinh viên Việt Nam tổ chức thi sáng tác ca khúc chính thức cho Đại hội"
+    ],
+    "correct": "Hội Sinh viên Việt Nam xây dựng và triển khai dùng chung một Ứng dụng Đại hội Hội Sinh viên cho tất cả đại hội, hội nghị từ cấp cơ sở",
+    "incorrect": [
+      "Tổ chức các hội nghị góp ý Văn kiện Đại hội",
+      "Hội Sinh viên Việt Nam xây dựng và triển khai dùng chung một Ứng dụng Đại hội Hội Sinh viên cho tất cả đại hội, hội nghị từ cấp cơ sở",
+      "Trung ương Hội Sinh viên Việt Nam tổ chức thi thiết kế Logo chính thức cho Đại hội",
+      "Trung ương Hội Sinh viên Việt Nam tổ chức thi sáng tác ca khúc chính thức cho Đại hội"
+    ]
+  },
+  {
+    "question": "Chương trình xây dựng Hội Sinh viên Việt Nam vững mạnh, góp phần xây dựng bảo vệ Đảng và hệ thống chính trị có bao nhiêu nội dung chính?",
+    "answers": [6, 4, 5, 3],
+    "correct": 5,
+    "incorrect": [6, 4, 5, 3]
+  },
+  {
+    "question": "Ngày truyền thống của Hội Sinh viên Việt Nam là ngày nào?",
+    "answers": ["03/02", "26/3", "09/01", "30/4"],
+    "correct": "09/01",
+    "incorrect": ["03/02", "26/3", "09/01", "30/4"]
+  },
+  {
+    "question": "Đề án trọng tâm được xác định trong Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI gồm?",
+    "answers": [
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên và Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam, Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam và Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam.",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên, Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam và Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam.",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên, Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam và Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam."
+    ],
+    "correct": "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên, Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam và Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam.",
+    "incorrect": [
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên và Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam.",
+      "Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam, Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam và Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam.",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên, Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam và Đề án Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam.",
+      "Đề án Nâng cao năng lực nghiên cứu khoa học trong sinh viên, Đề án Nâng cao năng lực số cho thanh thiếu niên Việt Nam và Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam."
+    ]
+  },
+  {
+    "question": "Trong nhiệm kỳ 2018 - 2023, Hội Sinh viên Việt Nam đã giới thiệu được việc làm cho bao nhiêu Hội viên, sinh viên?",
+    "answers": ["1.915.468", "1.915.466", "1.915.462", "1.915.464"],
+    "correct": "1.915.466",
+    "incorrect": ["1.915.468", "1.915.466", "1.915.462", "1.915.464"]
+  },
+  {
+    "question": "Nhiệm kỳ 2023 - 2028, Hội Sinh viên Việt Nam các cấp đã xác lập tỷ lệ cán bộ Hội được tập huấn, đào tạo theo khung năng lực do Trung ương Hội Sinh viên ban hành là bao nhiêu?",
+    "answers": ["100%", "80%", "95%", "90%"],
+    "correct": "100%",
+    "incorrect": ["100%", "80%", "95%", "90%"]
+  },
+  {
+    "question": "Đâu không phải là nhiệm vụ, giải pháp trong Công tác cán bộ Hội",
+    "answers": [
+      "Sử dụng hiệu quả ứng dụng “Chatbot – Cán bộ Hội Sinh viên Việt Nam”",
+      "Triển khai thực hiện hiệu quả đề án “Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam”",
+      "Triển khai “Khung năng lực cán bộ Hội”",
+      "Triển khai “Khung kỹ năng thực hành xã hội” cho sinh viên"
+    ],
+    "correct": "Triển khai “Khung kỹ năng thực hành xã hội” cho sinh viên",
+    "incorrect": [
+      "Sử dụng hiệu quả ứng dụng “Chatbot – Cán bộ Hội Sinh viên Việt Nam”",
+      "Triển khai thực hiện hiệu quả đề án “Nâng cao năng lực cán bộ Hội Sinh viên Việt Nam”",
+      "Triển khai “Khung năng lực cán bộ Hội”",
+      "Triển khai “Khung kỹ năng thực hành xã hội” cho sinh viên"
+    ]
+  },
+  {
+    "question": "Đâu là 05 tiêu chí của danh hiệu “Sinh viên 5 tốt”?",
+    "answers": [
+      "Đạo đức tốt, Học tập tốt, Sức khỏe tốt, Tình nguyện tốt, Hội nhập tốt",
+      "Đạo đức tốt, Học tập tốt, Thể lực tốt, Tình nguyện tốt, Hội nhập tốt",
+      "Đạo đức tốt, Học tập tốt, Thể lực tốt, Tình nguyện tốt, Ngoại ngữ tốt",
+      "Đạo đức tốt, Học tập tốt, Thể lực tốt, Hội nhập tốt, Kỹ năng tốt"
+    ],
+    "correct": "Đạo đức tốt, Học tập tốt, Thể lực tốt, Tình nguyện tốt, Hội nhập tốt",
+    "incorrect": [
+      "Đạo đức tốt, Học tập tốt, Sức khỏe tốt, Tình nguyện tốt, Hội nhập tốt",
+      "Đạo đức tốt, Học tập tốt, Thể lực tốt, Tình nguyện tốt, Hội nhập tốt",
+      "Đạo đức tốt, Học tập tốt, Thể lực tốt, Tình nguyện tốt, Ngoại ngữ tốt",
+      "Đạo đức tốt, Học tập tốt, Thể lực tốt, Hội nhập tốt, Kỹ năng tốt"
+    ]
+  },
+  {
+    "question": "Số lượng sinh viên tham gia các hoạt động tình nguyện do Hội Sinh viên Việt Nam các cấp tổ chức theo Chỉ tiêu Đại hội đại biểu Hội Sinh viên toàn quốc lần thứ XI đề ra?",
+    "answers": ["23 triệu", "27 triệu", "25 triệu", "21 triệu"],
+    "correct": "25 triệu",
+    "incorrect": ["23 triệu", "27 triệu", "25 triệu", "21 triệu"]
+  },
+  {
+    "question": "Đại hội đại biểu toàn quốc lần Hội Sinh viên lần thứ XI xác định triển khai mấy chương trình đồng hành với sinh viên?",
+    "answers": [2, 5, 4, 3],
+    "correct": 2,
+    "incorrect": [2, 5, 4, 3]
+  },
+  {
+    "question": "Hội nghị lần thứ nhất Ban Chấp hành Trung ương Hội Sinh viên Việt Nam khoá XI đã hiệp thương bầu bao nhiêu đồng chí vào Ban Thư ký Trung ương Hội Sinh viên Việt Nam khoá XI, nhiệm kỳ 2023 – 2028?",
+    "answers": ["35 đồng chí", "37 đồng chí", "33 đồng chí", "31 đồng chí"],
+    "correct": "33 đồng chí",
+    "incorrect": ["35 đồng chí", "37 đồng chí", "33 đồng chí", "31 đồng chí"]
+  },
+  {
+    "question": "Đâu không phải là một nội dung của Chương trình xây dựng Hội Sinh viên Việt Nam vững mạnh, góp phần xây dựng bảo vệ Đảng và hệ thống chính trị?",
+    "answers": [
+      "Công tác hội viên",
+      "Công tác chỉ đạo",
+      "Công tác tổ chức cơ sở Hội",
+      "Công tác thi đua, khen thưởng"
+    ],
+    "correct": "Công tác thi đua, khen thưởng",
+    "incorrect": [
+      "Công tác hội viên",
+      "Công tác chỉ đạo",
+      "Công tác tổ chức cơ sở Hội",
+      "Công tác thi đua, khen thưởng"
+    ]
+  },
+  {
+    "question": "Đâu là nhiệm vụ, giải pháp trong Công tác hội viên được xác định trong Văn kiện Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Xây dựng các hình thức kết nối cán bộ Hội như diễn đàn trực tuyến, câu lạc bộ cán bộ Hội theo nhóm, chuyên ngành, khối đặc thù…",
+      "Xây dựng các giải pháp đồng bộ trong công tác quản lý hội viên, chú trọng chuyển đổi số, ứng dụng công nghệ thông tin trong quản lý, theo dõi và đánh giá hội viên",
+      "Đổi mới nội dung, phương thức sinh hoạt, hoạt động chi hội theo hướng tăng cường chuyển đổi số",
+      "Đổi mới công tác tuyên truyền, giới thiệu về Hội Sinh viên Việt Nam và phong trào sinh viên, trong đó chú trọng tuyên truyền trên các nền tảng số"
+    ],
+    "correct": "Xây dựng các giải pháp đồng bộ trong công tác quản lý hội viên, chú trọng chuyển đổi số, ứng dụng công nghệ thông tin trong quản lý, theo dõi và đánh giá hội viên",
+    "incorrect": [
+      "Xây dựng các hình thức kết nối cán bộ Hội như diễn đàn trực tuyến, câu lạc bộ cán bộ Hội theo nhóm, chuyên ngành, khối đặc thù…",
+      "Xây dựng các giải pháp đồng bộ trong công tác quản lý hội viên, chú trọng chuyển đổi số, ứng dụng công nghệ thông tin trong quản lý, theo dõi và đánh giá hội viên",
+      "Đổi mới nội dung, phương thức sinh hoạt, hoạt động chi hội theo hướng tăng cường chuyển đổi số",
+      "Đổi mới công tác tuyên truyền, giới thiệu về Hội Sinh viên Việt Nam và phong trào sinh viên, trong đó chú trọng tuyên truyền trên các nền tảng số"
+    ]
+  },
+  {
+    "question": "Nghị quyết Đại hội Hội Sinh viên Việt Nam toàn quốc lần thứ XI xác định tỷ lệ sinh viên sử dụng Ứng dụng Sinh viên Việt Nam để đăng ký, theo dõi quá trình phấn đấu đạt danh hiệu “Sinh viên 5 tốt” ngay từ đầu năm học là bao nhiêu?",
+    "answers": ["95%", "90%", "100%", "75%"],
+    "correct": "100%",
+    "incorrect": ["95%", "90%", "100%", "75%"]
+  },
+  {
+    "question": "Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI, nhiệm kỳ 2023 - 2028 diễn ra tại đâu?",
+    "answers": ["TP. Hồ Chí Minh", "TP. Cần Thơ", "TP. Hà Nội", "TP. Đà Nẵng"],
+    "correct": "TP. Hà Nội",
+    "incorrect": ["TP. Hồ Chí Minh", "TP. Cần Thơ", "TP. Hà Nội", "TP. Đà Nẵng"]
+  },
+  {
+    "question": "Ai là chủ tịch Trung ương Hội Sinh viên Việt Nam khóa XI?",
+    "answers": [
+      "Chị Hồ Hồng Nguyên",
+      "Anh Bùi Quang Huy",
+      "Anh Nguyễn Bá Cát",
+      "Anh Nguyễn Minh Triết"
+    ],
+    "correct": "Anh Nguyễn Minh Triết",
+    "incorrect": [
+      "Chị Hồ Hồng Nguyên",
+      "Anh Bùi Quang Huy",
+      "Anh Nguyễn Bá Cát",
+      "Anh Nguyễn Minh Triết"
+    ]
+  },
+  {
+    "question": "Đâu không phải là nội dung trong công tác Phát huy vai trò sinh viên trong xây dựng, bảo vệ Đảng và hệ thống chính trị được xác định trong Văn kiện Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Cán bộ Hội Sinh viên là đảng viên phải nâng cao tinh thần trách nhiệm, năng lực phối hợp với Đoàn, tham mưu cho cấp ủy, bí thư cấp ủy ở cơ sở",
+      "Hội Sinh viên Việt Nam cấp trường, cấp tỉnh hằng năm tổ chức ít nhất 1 hoạt động tập huấn kỹ năng, nghiệp vụ công tác Hội cho cán bộ Hội Sinh viên của đơn vị",
+      "Định kỳ rà soát, bồi dưỡng sinh viên tiên tiến kết nạp vào Đoàn; thực hiện đúng nguyên tắc, quy trình và thủ tục kết nạp đoàn viên mới",
+      "Đẩy mạnh và đa dạng hóa các hoạt động giáo dục, định hướng nhận thức, tình cảm của sinh viên đối với Đảng Cộng sản Việt Nam và Đoàn TNCS Hồ Chí Minh"
+    ],
+    "correct": "Hội Sinh viên Việt Nam cấp trường, cấp tỉnh hằng năm tổ chức ít nhất 1 hoạt động tập huấn kỹ năng, nghiệp vụ công tác Hội cho cán bộ Hội Sinh viên của đơn vị",
+    "incorrect": [
+      "Cán bộ Hội Sinh viên là đảng viên phải nâng cao tinh thần trách nhiệm, năng lực phối hợp với Đoàn, tham mưu cho cấp ủy, bí thư cấp ủy ở cơ sở",
+      "Hội Sinh viên Việt Nam cấp trường, cấp tỉnh hằng năm tổ chức ít nhất 1 hoạt động tập huấn kỹ năng, nghiệp vụ công tác Hội cho cán bộ Hội Sinh viên của đơn vị",
+      "Định kỳ rà soát, bồi dưỡng sinh viên tiên tiến kết nạp vào Đoàn; thực hiện đúng nguyên tắc, quy trình và thủ tục kết nạp đoàn viên mới",
+      "Đẩy mạnh và đa dạng hóa các hoạt động giáo dục, định hướng nhận thức, tình cảm của sinh viên đối với Đảng Cộng sản Việt Nam và Đoàn TNCS Hồ Chí Minh"
+    ]
+  },
+  {
+    "question": "Đại hội Đại biểu Toàn quốc Hội Sinh viên Việt Nam lần thứ XI xác định triển khai trong toàn Đoàn bao nhiêu phong trào, chương trình lớn?",
+    "answers": ["4", "2", "1", "3"],
+    "correct": "3",
+    "incorrect": ["4", "2", "1"]
+  },
+  {
+    "question": "Tổng kinh phí học bổng, giải thưởng được trao tặng trong nhiệm kỳ 2018 - 2023 là bao nhiêu?",
+    "answers": [
+      "Gần 479 tỷ đồng",
+      "Hơn 579 tỷ đồng",
+      "Hơn 479 tỷ đồng",
+      "Hơn 497 tỷ đồng"
+    ],
+    "correct": "Hơn 479 tỷ đồng",
+    "incorrect": [
+      "Gần 479 tỷ đồng",
+      "Hơn 579 tỷ đồng",
+      "Hơn 479 tỷ đồng",
+      "Hơn 497 tỷ đồng"
+    ]
+  },
+  {
+    "question": "Số lượt sinh viên được tham gia các hoạt động thể dục thể thao được xác định trong Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "08 triệu lượt",
+      "10 triệu lượt",
+      "05 triệu lượt",
+      "03 triệu lượt"
+    ],
+    "correct": "05 triệu lượt",
+    "incorrect": [
+      "08 triệu lượt",
+      "10 triệu lượt",
+      "05 triệu lượt",
+      "03 triệu lượt"
+    ]
+  },
+  {
+    "question": "Nhiệm kỳ của Đại hội chi hội kéo dài bao lâu?",
+    "answers": ["01 năm", "05 năm", "05 năm 02 lần", "02 năm"],
+    "correct": "01 năm",
+    "incorrect": ["01 năm", "05 năm", "05 năm 02 lần", "02 năm"]
+  },
+  {
+    "question": "Phó Chủ tịch thường trực Trung ương Hội Sinh viên Việt Nam hiện nay là ai?",
+    "answers": [
+      "Anh Nguyễn Minh Triết",
+      "Anh Bùi Quang Huy",
+      "Chị Hồ Hồng Nguyên",
+      "Anh Nguyễn Bá Cát"
+    ],
+    "correct": "Chị Hồ Hồng Nguyên",
+    "incorrect": [
+      "Anh Nguyễn Minh Triết",
+      "Anh Bùi Quang Huy",
+      "Chị Hồ Hồng Nguyên",
+      "Anh Nguyễn Bá Cát"
+    ]
+  },
+  {
+    "question": "Hội đồng tư vấn, đồng hành với sinh viên giai đoạn 2023 - 2028 không bao gồm thành viên nào sau đây?",
+    "answers": [
+      "Ông Nguyễn Huy Dũng - thứ trưởng Bộ Thông tin và Truyền thông, phó chủ tịch Trung ương Hội Liên hiệp thanh niên Việt Nam",
+      "Ca sĩ Hà Anh Tuấn",
+      "Bà Tôn Nữ Thị Ninh, Nguyên Đại sứ đặc mệnh toàn quyền của Việt Nam tại Liên minh Châu Âu",
+      "Ông Nguyễn Đắc Vinh - chủ nhiệm Ủy ban Văn hóa, Giáo dục của Quốc hội"
+    ],
+    "correct": "Bà Tôn Nữ Thị Ninh, Nguyên Đại sứ đặc mệnh toàn quyền của Việt Nam tại Liên minh Châu Âu",
+    "incorrect": [
+      "Ông Nguyễn Huy Dũng - thứ trưởng Bộ Thông tin và Truyền thông, phó chủ tịch Trung ương Hội Liên hiệp thanh niên Việt Nam",
+      "Ca sĩ Hà Anh Tuấn",
+      "Bà Tôn Nữ Thị Ninh, Nguyên Đại sứ đặc mệnh toàn quyền của Việt Nam tại Liên minh Châu Âu",
+      "Ông Nguyễn Đắc Vinh - chủ nhiệm Ủy ban Văn hóa, Giáo dục của Quốc hội"
+    ]
+  },
+  {
+    "question": "Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI đã đưa ra chỉ tiêu về số lượng sinh viên đạt danh hiệu “Sinh viên 5 tốt” cấp tỉnh là bao nhiêu?",
+    "answers": ["10.000", "30.000", "20.000", "40.000"],
+    "correct": "20.000",
+    "incorrect": ["10.000", "30.000", "40.000"]
+  },
+  {
+    "question": "Đâu là nhiệm vụ, giải pháp trong Công tác cán bộ Hội được xác định trong Nghị quyết Đại hội đại biểu toàn quốc Hội Sinh viên Việt Nam lần thứ XI?",
+    "answers": [
+      "Triển khai thực hiện Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam",
+      "Đổi mới công tác thi đua khen thưởng, đảm bảo động viên kịp thời, khen thưởng đúng người, đúng việc",
+      "Tiếp tục đổi mới công tác bồi dưỡng, tập huấn cán bộ Hội theo hướng phân cấp và theo chức danh, chú trọng đào tạo bồi dưỡng thường xuyên, đặc biệt là với cán bộ Hội mới nhận nhiệm vụ",
+      "Tổ chức định kỳ các buổi sinh hoạt chuyên đề, diễn đàn cung cấp thông tin về tình hình đất nước, khu vực, thế giới"
+    ],
+    "correct": "Tiếp tục đổi mới công tác bồi dưỡng, tập huấn cán bộ Hội theo hướng phân cấp và theo chức danh, chú trọng đào tạo bồi dưỡng thường xuyên, đặc biệt là với cán bộ Hội mới nhận nhiệm vụ",
+    "incorrect": [
+      "Triển khai thực hiện Đề án Chuyển đổi số các hoạt động Hội Sinh viên Việt Nam",
+      "Đổi mới công tác thi đua khen thưởng, đảm bảo động viên kịp thời, khen thưởng đúng người, đúng việc",
+      "Tiếp tục đổi mới công tác bồi dưỡng, tập huấn cán bộ Hội theo hướng phân cấp và theo chức danh, chú trọng đào tạo bồi dưỡng thường xuyên, đặc biệt là với cán bộ Hội mới nhận nhiệm vụ",
+      "Tổ chức định kỳ các buổi sinh hoạt chuyên đề, diễn đàn cung cấp thông tin về tình hình đất nước, khu vực, thế giới"
+    ]
+  },
+
+  {
+    "question": "Đại hội đại biểu Hội Sinh viên Việt Nam toàn quốc lần thứ XI, nhiệm kỳ 2023 - 2028 đã xác định khẩu hiệu hành động là gì?",
+    "answers": [
+      "Sinh viên Việt Nam bản lĩnh, học tập, sáng tạo, tình nguyện, hội nhập, phát triển",
+      "Sinh viên Việt Nam - Vững bản sắc - Giàu khát vọng - Kiến tạo tương lai - Dựng xây đất nước.",
+      "Sinh viên Việt Nam - Vững bản lĩnh - Sáng tri thức - Giàu khát vọng",
+      "Sinh viên Việt Nam - Vững bản sắc, hòa chung tự hào - Kiến tạo tương lai, dựng xây đất nước"
+    ],
+    "correct": "Sinh viên Việt Nam - Vững bản sắc - Giàu khát vọng - Kiến tạo tương lai - Dựng xây đất nước.",
+    "incorrect": [
+      "Sinh viên Việt Nam bản lĩnh, học tập, sáng tạo, tình nguyện, hội nhập, phát triển",
+      "Sinh viên Việt Nam - Vững bản sắc - Giàu khát vọng - Kiến tạo tương lai - Dựng xây đất nước.",
+      "Sinh viên Việt Nam - Vững bản lĩnh - Sáng tri thức - Giàu khát vọng",
+      "Sinh viên Việt Nam - Vững bản sắc, hòa chung tự hào - Kiến tạo tương lai, dựng xây đất nước"
+    ]
+  }
+]
